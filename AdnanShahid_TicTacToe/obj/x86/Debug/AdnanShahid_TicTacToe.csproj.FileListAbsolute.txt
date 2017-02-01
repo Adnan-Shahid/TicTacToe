@@ -1,0 +1,8 @@
+E:\AdnanShahid_TicTacToe\AdnanShahid_TicTacToe\bin\Debug\AdnanShahid_TicTacToe.exe
+E:\AdnanShahid_TicTacToe\AdnanShahid_TicTacToe\bin\Debug\AdnanShahid_TicTacToe.pdb
+E:\AdnanShahid_TicTacToe\AdnanShahid_TicTacToe\obj\x86\Debug\AdnanShahid_TicTacToe.TicTacToe.resources
+E:\AdnanShahid_TicTacToe\AdnanShahid_TicTacToe\obj\x86\Debug\AdnanShahid_TicTacToe.Properties.Resources.resources
+E:\AdnanShahid_TicTacToe\AdnanShahid_TicTacToe\obj\x86\Debug\AdnanShahid_TicTacToe.exe
+E:\AdnanShahid_TicTacToe\AdnanShahid_TicTacToe\obj\x86\Debug\AdnanShahid_TicTacToe.pdb
+E:\AdnanShahid_TicTacToe\AdnanShahid_TicTacToe\obj\x86\Debug\AdnanShahid_TicTacToe.csproj.GenerateResource.Cache
+E:\AdnanShahid_TicTacToe\AdnanShahid_TicTacToe\obj\x86\Debug\AdnanShahid_TicTacToe.csprojResolveAssemblyReference.cache
